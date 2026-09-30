@@ -1,0 +1,36 @@
+Key Insights
+
+1. Survival was not equally distributed among all passengers. A larger number
+   of passengers did not survive compared with those who survived.
+
+2. Gender had a strong relationship with survival. Female passengers had a
+   considerably higher survival rate than male passengers.
+
+3. Passenger class was associated with survival. Passengers from higher
+   classes generally had better survival outcomes than passengers from
+   lower classes.
+
+4. The age distribution shows that Titanic passengers belonged to different
+   age groups, with many passengers concentrated in the young-adult and
+   middle-age ranges.
+
+5. Fare values were highly varied. Some passengers paid substantially higher
+   fares than most other passengers, which can be identified as potential
+   outliers.
+
+6. The correlation analysis shows relationships among numerical variables
+   such as passenger class, fare, age, and survival.
+
+7. The EDA shows that passenger characteristics such as gender, class,
+   age, and fare can be useful variables for understanding survival patterns.
+
+Conclusion
+
+Exploratory Data Analysis was performed on the cleaned Titanic dataset using
+Python. Important statistics were calculated and several visualizations were
+created to understand passenger characteristics and survival patterns.
+The analysis identified relationships between survival and variables such as
+gender and passenger class. Age and fare distributions were also analyzed,
+and potential anomalies were identified using boxplots and the IQR method.
+Overall, EDA helped identify important patterns, trends, and relationships
+within the Titanic dataset.
